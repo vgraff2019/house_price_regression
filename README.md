@@ -6,6 +6,6 @@ files:
   cleansing of the data for further analysis
   
 - house_price_data_regression.ipynb
-  3 regression models: RF, NN and XGBoost. 
-  submission of prediction using NN model and XGBoost
-  NN prediction is the best so far.
+  4 regression models: RF, NN and XGBoost, ElasticNet. 
+  submission of prediction for the different models
+  NN prediction is the best so far on the Kaggle test set, though XGBoost seems better on the training set
